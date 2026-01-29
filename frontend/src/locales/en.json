@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "KERAG Web",
+    "loading": "Loading...",
+    "no_content": "No Content",
+    "logoButton": "KERAG"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "applying": "Applying...",
+    "web_lang": "UI Language"
+  },
+  "search": {
+    "placeholder": "Search knowledge base...",
+    "all": "All",
+    "title": "Title",
+    "label": "Label",
+    "content": "Content",
+    "button": "Search",
+    "clear": "Clear",
+    "results": "Found {count} results",
+    "case_sensitive": "Case Sensitive",
+    "whole_word": "Whole Word",
+    "regex": "Regex",
+    "back": "Back",
+    "forward": "Forward",
+    "up": "Up",
+    "history": "History",
+    "browse_history": "Browse History",
+    "no_history": "No history",
+    "jump": "Jump",
+    "jump_placeholder": "Enter Node ID..."
+  },
+  "modules": {
+    "title": "Modules",
+    "available": "Available",
+    "loaded": "Loaded",
+    "load": "Load",
+    "unload": "Unload",
+    "purge": "Purge All",
+    "purge_confirm": "Are you sure you want to unload all modules?",
+    "files": "{count} files"
+  },
+  "navigation": {
+    "tree": "Knowledge Tree",
+    "breadcrumb": "Position",
+    "syncing": "Syncing...",
+    "no_nodes": "No node data"
+  },
+  "view": {
+    "format": "Format",
+    "options": "Options",
+    "depth": "Depth",
+    "metadata": "Metadata",
+    "include_content": "Include Content",
+    "include_see_also": "Include See Also",
+    "display_mode": "Display Mode",
+    "full_id": "Full ID",
+    "refresh_view": "Refresh View",
+    "text_format": "Plain Text",
+    "tree_format": "Tree Structure",
+    "mode": {
+      "none": "None",
+      "label": "Label Only",
+      "title": "Title Only",
+      "both": "Both"
+    }
+  },
+  "node": {
+    "content_node": "Content Node",
+    "section_node": "Section Node",
+    "select_prompt": "Select a node to view content",
+    "inline_references": "Inline References",
+    "related_links": "Related Links"
+  },
+  "settings": {
+    "title": "Settings",
+    "keragHome": "Global Root",
+    "keragHomeHint": "Knowledge base root directory",
+    "keragLocal": "Local Root",
+    "keragLocalHint": "Local knowledge base (optional)",
+    "keragLang": "KB Language",
+    "keragLangHint": "Knowledge base content language",
+    "langAuto": "Auto",
+    "apply": "Apply Settings",
+    "warning": "Changing these settings will reload all knowledge base modules"
+  }
+}

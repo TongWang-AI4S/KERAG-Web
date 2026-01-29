@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "KERAG Web",
+    "loading": "加载中...",
+    "no_content": "无内容",
+    "logoButton": "KERAG"
+  },
+  "common": {
+    "cancel": "取消",
+    "applying": "应用中...",
+    "web_lang": "网页语言"
+  },
+  "search": {
+    "placeholder": "搜索知识库...",
+    "all": "全部",
+    "title": "标题",
+    "label": "标签",
+    "content": "内容",
+    "button": "搜索",
+    "clear": "清除",
+    "results": "找到 {count} 条结果",
+    "case_sensitive": "匹配大小写",
+    "whole_word": "全字匹配",
+    "regex": "正则表达式",
+    "back": "后退",
+    "forward": "前进",
+    "up": "向上",
+    "history": "历史",
+    "browse_history": "浏览历史",
+    "no_history": "无历史记录",
+    "jump": "跳转",
+    "jump_placeholder": "输入节点 ID..."
+  },
+  "modules": {
+    "title": "模块",
+    "available": "可用模块",
+    "loaded": "已加载",
+    "load": "加载",
+    "unload": "卸载",
+    "purge": "清除全部",
+    "purge_confirm": "确定要卸载所有模块吗？",
+    "files": "{count} 个文件"
+  },
+  "navigation": {
+    "tree": "知识树",
+    "breadcrumb": "当前位置",
+    "syncing": "同步中...",
+    "no_nodes": "暂无节点数据"
+  },
+  "view": {
+    "format": "展示格式",
+    "options": "展示选项",
+    "depth": "深度",
+    "metadata": "显示元数据",
+    "include_content": "包含内容",
+    "include_see_also": "包含参见",
+    "display_mode": "显示模式",
+    "full_id": "完整ID",
+    "refresh_view": "刷新视图",
+    "text_format": "纯文本",
+    "tree_format": "树形结构",
+    "mode": {
+      "none": "无",
+      "label": "仅标签",
+      "title": "仅标题",
+      "both": "标题及标签"
+    }
+  },
+  "node": {
+    "content_node": "内容节点",
+    "section_node": "章节节点",
+    "select_prompt": "选择一个节点查看内容",
+    "inline_references": "内联引用",
+    "related_links": "相关链接"
+  },
+  "settings": {
+    "title": "设置",
+    "keragHome": "全局根目录",
+    "keragHomeHint": "知识库根目录路径",
+    "keragLocal": "本地根目录",
+    "keragLocalHint": "本地知识库路径（可选）",
+    "keragLang": "知识库语言",
+    "keragLangHint": "知识库内容语言偏好",
+    "langAuto": "自动",
+    "apply": "应用设置",
+    "warning": "更改这些设置将重新加载所有知识库模块"
+  }
+}

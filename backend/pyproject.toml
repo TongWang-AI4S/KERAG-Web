@@ -1,0 +1,25 @@
+[project]
+name = "kerag-web-backend"
+version = "0.1.0"
+description = "Web API for KERAG Knowledge Base"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "python-multipart",
+    "pyyaml",
+    "kerag",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest",
+]
+
+[tool.uv.sources]
+kerag = { path = "../../", editable = true }
+
+[project.optional-dependencies]
+kerag = ["kerag"]
