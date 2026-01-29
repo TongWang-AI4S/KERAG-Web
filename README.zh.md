@@ -1,6 +1,6 @@
 # KERAG Web - 知识库浏览器
 
-一个为 KERAG 知识库打造的现代化 Web 界面，基于 Vue 3、TypeScript 和 Pinia 构建。
+一个为检视 KERAG 知识库打造的 Web 界面，基于 Vue 3、TypeScript 和 Pinia 构建。
 
 ## 相关项目
 
@@ -41,7 +41,7 @@ kerag-web
 ### 3. 参数配置
 您可以直接在命令后添加参数：
 ```bash
-kerag-web --port 9000 --global-root /你的/知识库/路径
+kerag-web --port 9000 --global-root /path/to/your/knowledge
 ```
 
 ---

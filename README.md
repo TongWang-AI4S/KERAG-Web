@@ -1,6 +1,6 @@
 # KERAG Web - Knowledge Base Explorer
 
-A modern web interface for the KERAG knowledge base, built with Vue 3, TypeScript, and Pinia.
+A web interface for viewing the KERAG knowledge base, built with Vue 3, TypeScript, and Pinia.
 
 ## Related Projects
 
@@ -23,12 +23,12 @@ You don't even need to clone the repository. You can install and run KERAG Web d
 
 **Using uv (Recommended):**
 ```bash
-uv tool install git+https://github.com/____/kerag-web.git
+uv tool install git+https://github.com/TongWang-AI4S/kerag-web.git
 ```
 
 **Using pip:**
 ```bash
-pip install git+https://github.com/____/kerag-web.git
+pip install git+https://github.com/TongWang-AI4S/kerag-web.git
 ```
 
 ### 2. Run it
