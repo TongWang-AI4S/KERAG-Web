@@ -70,7 +70,7 @@ def main():
 
     uvicorn.run(
         app_module,
-        host="0.0.0.0",
+        host="localhost",
         port=port,
         reload=False,  # Disable reload for production packaging
         log_level="info"

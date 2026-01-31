@@ -8,7 +8,6 @@
 |---------|-------------|------------|
 | **KERAG** | 核心库，用于构建、打包和管理知识库 | [TongWang-AI4S/KERAG](https://github.com/TongWang-AI4S/KERAG) |
 | **KERAG MCP** | MCP 服务器，用于 AI 助手集成 | [TongWang-AI4S/kerag-mcp](https://github.com/TongWang-AI4S/kerag-mcp) |
-| **KERAG Modules** | 预构建知识库模块（可直接安装的 tar 文件） | [TongWang-AI4S/KERAG-Modules](https://github.com/TongWang-AI4S/KERAG-Modules) |
 
 ## 教程
 
