@@ -8,7 +8,6 @@ A web interface for viewing the KERAG knowledge base, built with Vue 3, TypeScri
 |---------|-------------|------------|
 | **KERAG** | Core library for building, packing, and managing knowledge bases | [TongWang-AI4S/KERAG](https://github.com/TongWang-AI4S/KERAG) |
 | **KERAG MCP** | MCP server for AI assistant integration | [TongWang-AI4S/kerag-mcp](https://github.com/TongWang-AI4S/kerag-mcp) |
-| **KERAG Modules** | Pre-built knowledge base modules (ready-to-install tar archives) | [TongWang-AI4S/KERAG-Modules](https://github.com/TongWang-AI4S/KERAG-Modules) |
 
 ## Tutorials
 
